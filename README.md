@@ -1,6 +1,6 @@
-# Qt-QML Linguits
+# Qt-QML Linguist
 
-Simple Qt Application project with front-end developed using QML. The aim of this app is to be used as example of how to use the Linguist framework in Qt to suppor multi-language applications.
+Simple Qt Application project with front-end developed using QML. The aim of this app is to be used as example of how to use the Linguist framework in Qt to support multi-language applications.
 
 Key points:
 
